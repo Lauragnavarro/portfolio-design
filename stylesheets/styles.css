@@ -1,0 +1,94 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+}
+
+nav {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h2 {
+  font-size: 40px;
+  padding-bottom: 30px;
+}
+
+.nav-list {
+  text-align: right;
+  padding: 20px;
+}
+
+.mr-auto {
+  margin-right: auto!important;
+}
+
+.header-logo {
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+.p-me {
+  font-size: 80px;
+  justify-content: flex-end;
+  color: white;
+}
+.p-me-name {
+  font-size: 40px;
+  color: white;
+  text-align: right;
+  padding-right: 20px;
+}
+
+.welcome-section {
+  margin-top: 16px;
+}
+
+.container-wrapper-me {
+  background-color: #EA9B71;
+  width: 100vw;
+  height: 100vh;
+  padding: 175px 275px;
+  align-items: center;
+}
+.row {
+  display: flex;
+  align-items: center;
+}
+
+.container-wrapper {
+  background-color: white;
+  max-width: 1800px;
+  padding: 50px 0;
+}
+
+.image-welcome {
+  text-align: right;
+}
+
+.text-pad {
+  padding-top: 100px;
+}
+
+.border {
+  text-align: right;
+  border-left: 1px solid white;
+  height: 600px;
+  width: 0px;
+  margin-top: 0px;
+}
+
+.hello-pad {
+  padding-left: 150px;
+}
+
+.button {
+  text-align: left;
+  padding-top: 30px;
+  border: none;
+  color: white;
+}
